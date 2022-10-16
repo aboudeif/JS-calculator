@@ -10,8 +10,10 @@
 An expression multitasking calculator, I made with just twenty-five lines of code, as a modification to an earlier machine I had made using PHP. 
 
 ### **How to use:**
-1- Use input buttons to write an expression./n
+1- Use input buttons to write an expression.
+
 2- presses "=" key, to evaluate the expression.
+
 3- press "AC" to reset.
 
 ### **Code**
