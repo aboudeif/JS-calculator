@@ -1,4 +1,4 @@
-# Javascript expression evaluation calulator
+# Javascript expression evaluation calculator
 
 ### **The app is accessible via the link:**
 [https://calc-js.abdallahaboudei.repl.co](https://calc-js.abdallahaboudei.repl.co)
