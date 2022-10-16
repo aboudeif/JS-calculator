@@ -7,8 +7,8 @@
 1- [Images](/images/)
 
 ### **Application**
-![Application Screenshot](/screenshots/311573262_5439160029513814_5011677418161329024_n.jpg?raw=true "Optional Title")
+![Application Screenshot](/screenshots/311573262_5439160029513814_5011677418161329024_n.jpg"Optional Title")
 
 ### **Code**
-![Code](/screenshots/js-calc.png?raw=true "Optional Title")
+![Code](/screenshots/js-calc.png"Optional Title")
 
