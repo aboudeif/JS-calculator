@@ -1,0 +1,25 @@
+<html>
+<head>
+  <title>JS calculator</title>
+</head>
+<body>
+<style>body{text-align:center;}button,input{zoom:1.5;}button{width:66px;margin-left:-2.5px;}
+input:nth-of-type(n+10){width:66px}#text{width:198px;margin-top:4em;}</style>
+<form method='POST' id='form'>
+  <input type='text' id='text' name='text' readonly>
+</form>
+<script>
+  for(let i=37,r=1;i<58;i++,r++){
+   if(i == 39 || i == 44|| i == 48) continue;
+   document.write("<input type='button' form='form' onclick='add(this);' value='&#"+i+"'>");
+   if(r > 11 && !(r%3) || r == 11)
+     document.write("<br>");
+   }
+  const text = document.getElementById('text');
+  const add = (element) => text.value += element.value;
+</script>
+<input type='button' form='form' onclick='add(this);' value='&#48'>
+<button form='form' type='button' onclick='text.value = eval(text.value);'>=</button>
+<button form='form' type='reset' name='reset' id='reset'>AC</button>
+</body>
+</html>
