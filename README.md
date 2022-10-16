@@ -15,7 +15,7 @@ An expression multitasking calculator, I made with just twenty-five lines of cod
 3- press "AC" to reset.
 
 ### **Code**
-[Code](/index.html)
+[index.html](/index.html)
 
 ### **Application screenshot**
 ![Application Screenshot](/images/311573262_5439160029513814_5011677418161329024_n.jpg?raw=true "Optional Title")
